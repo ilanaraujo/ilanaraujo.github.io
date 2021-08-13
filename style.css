@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color: #E8FFE6;
+}
+
+a {
+    color:cyan;
+}
+
+a:hover {
+    color:greenyellow;
+}
+
+h1 {
+    color:blue;
+}
