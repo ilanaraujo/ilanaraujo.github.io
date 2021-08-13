@@ -4,11 +4,8 @@ body {
 }
 
 a {
-    color:cyan;
-}
-
-a:hover {
-    color:greenyellow;
+    color:blue;
+    list-style: none;
 }
 
 h1 {
