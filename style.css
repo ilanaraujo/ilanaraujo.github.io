@@ -1,11 +1,11 @@
 body {
     text-align: center;
-    background-color: #E8FFE6;
+    background-color: #f1fff0;
 }
 
 a {
     color:blue;
-    list-style: none;
+    text-decoration: none;
 }
 
 h1 {
