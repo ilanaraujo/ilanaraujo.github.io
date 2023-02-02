@@ -8,6 +8,26 @@ a {
     text-decoration: none;
 }
 
-h1 {
-    color:blue;
+
+#nome {
+    color: rgb(0, 75, 150);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#foto {
+    text-align:left;
+    border-radius: 50%;
+    height: 200px;
+    padding: 10px;
+    border-color: red;
+    border-width: 2px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right:0
+
+
 }
